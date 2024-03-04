@@ -1,0 +1,1 @@
+Just a simple recipes website which contains ingredients and steps of cooking a simple recipe. This website is the first project on The Odin Project web dev course
